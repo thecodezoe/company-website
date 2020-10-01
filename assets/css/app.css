@@ -1,4 +1,3 @@
-
 @-webkit-keyframes a {
     0% {
         opacity: 1
@@ -9940,7 +9939,6 @@ ul.site-main-menu.siteMainMen li>a {
 .call-to-action {
     /* background-image: -o-linear-gradient(350deg, #fa7070 0, #fa9770 100%); */
     background-image: linear-gradient(100deg, #26abb8,#0a0923);
-    background-image: linear-gradient(100deg, #fa7070, #fa9770);
     padding: 111px 0 120px;
     overflow: hidden
 }
