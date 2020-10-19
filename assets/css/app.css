@@ -2281,7 +2281,7 @@ ul.site-main-menu.siteMainMen li>a {
 }
 
 .pix-header-fixed .siteMainMen li>a:not(.current_page) {
-    color: #1B4958 !important;
+    color: #fff !important;
 }
 
 .pix-header-fixed .siteMainMenu li a.current_page {
