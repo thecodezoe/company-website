@@ -344,15 +344,15 @@ section {
 }
 
 .pix-btn.btn-outline {
-    border: 1px solid #fa7070;
+    border: 1px solid #20596c;
     background: transparent;
-    color: #fa7070;
+    color: #20596c;
     -webkit-box-shadow: none;
     box-shadow: none
 }
 
 .pix-btn.btn-outline:hover {
-    background: #fa7070;
+    background: #20596c;
     color: #fff;
     -webkit-box-shadow: 0 20px 30px 0 rgba(176, 70, 70, .3);
     box-shadow: 0 20px 30px 0 rgba(176, 70, 70, .3)
